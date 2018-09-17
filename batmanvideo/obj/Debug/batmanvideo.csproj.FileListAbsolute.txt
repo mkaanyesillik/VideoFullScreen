@@ -1,0 +1,15 @@
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\bin\Debug\batmanvideo.exe.config
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\bin\Debug\batmanvideo.exe
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\bin\Debug\batmanvideo.pdb
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.csprojAssemblyReference.cache
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\Interop.AXVLC.dll
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.csproj.ResolveComReference.cache
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.Form1.resources
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.Properties.Resources.resources
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.csproj.GenerateResource.cache
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.csproj.CoreCompileInputs.cache
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.exe
+c:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\batmanvideo.pdb
+C:\Users\mkaan\source\repos\batmanvideo\batmanvideo\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\source\repos\batmanvideo\batmanvideo\bin\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\source\repos\batmanvideo\batmanvideo\bin\Debug\AxInterop.AXVLC.dll
